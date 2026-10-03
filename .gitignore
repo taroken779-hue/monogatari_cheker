@@ -1,0 +1,9 @@
+.venv/
+.runtime/
+__pycache__/
+*.pyc
+config.local.json
+docs/*.jpg
+docs/*-validation.json
+docs/validation-results.json
+*.epub
